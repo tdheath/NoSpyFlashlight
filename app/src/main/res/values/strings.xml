@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoSpy Flashlight</string>
+    <string name="hello_world">Welcome to NoSpy Flashlight!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">Just a simple flashlight app that won\'t steal and sell your information. Enjoy!</string>
+
+</resources>

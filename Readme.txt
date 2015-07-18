@@ -1,0 +1,1 @@
+A simple android flashlight app. Strictly made as an intro to android programming and kept for personal use, since many available apps were requesting access to aspects of the device that contain personal information and contained ads.
